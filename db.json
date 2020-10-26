@@ -21,205 +21,307 @@
       "2020"
     ],
     "valores": [
-      85626,
-      87806,
-      90128,
-      95003,
-      97701,
-      100378,
-      107285,
-      109705,
-      114250,
-      116418,
-      118964,
-      120948,
-      122865,
-      124940,
-      126742,
-      130439,
-      132400,
-      134293
+      12790,
+      12858,
+      12923,
+      13061,
+      13137,
+      13212,
+      13379,
+      13435,
+      13736,
+      13806,
+      14334,
+      14427,
+      14518,
+      14606,
+      14693,
+      14679,
+      14770,
+      14859
     ],
     "faixas": [
-      2.8,
-      2.8,
-      2.8,
-      3,
-      3,
-      3,
-      3.2,
-      3.2,
-      3.2,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.6,
-      3.6,
-      3.6
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ]
   },
   "risco": {
     "ano": 2020,
-    "valorAnterior": 129048,
-    "faixa": 3.6,
-    "valor": 134293,
-    "valorPosterior": 142633,
-    "dif": 5245,
+    "valorAnterior": 13584,
+    "faixa": 1,
+    "valor": 14859,
+    "valorPosterior": 16981,
+    "dif": 1275,
     "tendencia": "descer"
   },
-  "setores": {
-    "tipo": [
-      {
-        "distrito": "05",
-        "total": "235",
-        "cod": "0",
-        "desc": "Não especial"
+  "censos": {
+    "pop_residente": {
+      "2000": {
+        "Total": 12717,
+        "Homens": 6414,
+        "Mulheres": 6303,
+        "Urbana": 10114,
+        "Rural": 2603
       },
-      {
-        "distrito": "05",
-        "total": "54",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "08",
-        "total": "65",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "08",
-        "total": "7",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "08",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "10",
-        "total": "33",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "10",
-        "total": "8",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "10",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
-      },
-      {
-        "distrito": "12",
-        "total": "45",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "12",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "15",
-        "total": "49",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "15",
-        "total": "13",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "15",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
+      "2010": {
+        "Total": 13663,
+        "Homens": 6842,
+        "Mulheres": 6821,
+        "Urbana": 11221,
+        "Rural": 2442
       }
-    ],
-    "situacao": [
-      {
-        "distrito": "05",
-        "total": "270",
-        "cod": "1",
-        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "18",
-        "cod": "2",
-        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "8",
-        "desc": "Situação rural - Área rural"
-      },
-      {
-        "distrito": "05",
-        "total": "1",
-        "cod": "9",
-        "desc": "Massa de água"
-      }
-    ]
+    }
   },
   "repac": {
     "participantes": [
       {
-        "cod_membro": "133039",
-        "nome": "ADãO VIEIRA DOS SANTOS",
+        "cod_membro": "150113",
+        "nome": "ADRIANO VASCONCELOS RIATO",
+        "cargo": "CHEFE DO DESPORTO E CULTURA",
+        "entidade": "DEPARTAMENTO DE DESPORTO E CULTURA",
+        "email": [
+          "adriano_riato@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99766-2595",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3447-1122",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142523",
+        "nome": "AMáBILE MENEGON",
+        "cargo": "Presidente do Conselho",
+        "entidade": "Conselho Municipal de Desenvolvimento Rural Sustentável",
+        "email": [
+          "amabilemenegon@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99993-6365",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150110",
+        "nome": "ANA PAULA COSTA BISCONSIM OLIVEIRA",
+        "cargo": "SUPORTE PEDAGÓGICO",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "smealtopr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3447-2415",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3447-1122",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150108",
+        "nome": "CASSIA R. FAVA FERNANDES",
+        "cargo": "DIRETORA",
+        "entidade": "ESCOLA MUNICIPAL ALTO PARANÁ",
+        "email": [
+          "cassia_clara@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3447-1721",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142477",
+        "nome": "EVERTON RONCAGLIO",
         "cargo": "Vereador",
-        "entidade": "Câmara Municipal de Vereadores",
+        "entidade": "Câmara Municipal de Alto Paraná",
         "email": [
-          "vereadorvidrinho@cmva.sc.gov.br",
+          "evertonroncaglio@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99930-6867",
+            "numero": "(44) 99965-7756",
             "ramal": null
           },
           {
-            "numero": "(48)99955-8000",
+            "numero": null,
             "ramal": null
           }
         ],
-        "observador": true,
+        "observador": false,
         "ativo": true
       },
       {
-        "cod_membro": "134551",
-        "nome": "ADRIANA PRATI",
-        "cargo": "Coordenadora",
-        "entidade": "Colegio Ethicos",
+        "cod_membro": "142629",
+        "nome": "Fontes",
+        "cargo": "Engenheiro Agrônomo",
+        "entidade": "EMATER",
         "email": [
-          "colegioethicos@contato.net",
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3447-1850",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142487",
+        "nome": "LUIS FRANçA",
+        "cargo": "Presidente do Sindicato",
+        "entidade": "Sindicato Rural de Alto Paraná",
+        "email": [
+          "luis-agricola@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)3522-3424",
+            "numero": "(44) 99954-8320",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142467",
+        "nome": "MARIO NATIVO BALDIN",
+        "cargo": "Técnico",
+        "entidade": "EMATER",
+        "email": [
+          "marionativo@emater.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 98403-3430",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142593",
+        "nome": "Paulo Sergio Lima",
+        "cargo": "Técnico Administrativo",
+        "entidade": "EMATER",
+        "email": [
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3447-1850",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142475",
+        "nome": "RAFAEL CAVALLI MIQUELAN",
+        "cargo": "Secretário de Agricultura",
+        "entidade": "Prefeitura Municipal de Alto Paraná",
+        "email": [
+          "rafael_miquelan@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99918-3875",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150121",
+        "nome": "ROBSONCLEY GARCIA OLGARIN",
+        "cargo": "CONTROLADOR INTERNO",
+        "entidade": "PREFEITURA MUNICIPAL",
+        "email": [
+          "robysongarcia@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99714-5477",
             "ramal": null
           },
           {
@@ -231,17 +333,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "193033",
-        "nome": "ADRIANO DO CANTO FERNANDES",
-        "cargo": "Síndico",
-        "entidade": "Residencial Ed. Village",
+        "cod_membro": "142476",
+        "nome": "VICTOR HUGO RAZENTE NAVARRETE",
+        "cargo": "Presidente da Câmara",
+        "entidade": "Câmara Municipal de Alto Paraná",
         "email": [
-          "adrianodocantofernandes@gmail.com",
+          "vitao.razente@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)98844-8313",
+            "numero": "(44) 99848-7758",
             "ramal": null
           },
           {
@@ -249,21 +351,21 @@
             "ramal": null
           }
         ],
-        "observador": true,
+        "observador": false,
         "ativo": true
       },
       {
-        "cod_membro": "193099",
-        "nome": "ALDO ANGELONI",
-        "cargo": "Síndico",
-        "entidade": "Ed. Monte Carlo",
+        "cod_membro": "142592",
+        "nome": "VINICIUS A. PIETRO GUIMARãES",
+        "cargo": "Zootecnista",
+        "entidade": "EMATER",
         "email": [
-          "Só WhatsApp/celular",
+          "viniciusguimaraes@emater.pr.gov.br",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99628-1919",
+            "numero": "(44) 3447-1850",
             "ramal": null
           },
           {
@@ -271,163 +373,37 @@
             "ramal": null
           }
         ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "191962",
-        "nome": "ALEXANDRA PEREIRA",
-        "cargo": "Síndica",
-        "entidade": "Ed. Darolt",
-        "email": [
-          "alexandrapereirasc@gmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)99949-1866",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "191913",
-        "nome": "ALIDEN WILLAN",
-        "cargo": "Síndico",
-        "entidade": "Ed. Oasis",
-        "email": [
-          "alidenwr@hotmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)99616-0254",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "133967",
-        "nome": "ALIRIA COSTA",
-        "cargo": "Coordenadora",
-        "entidade": "CEI Cidade Encantada",
-        "email": [
-          "prof.aliriac@gmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)99632-5712",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
+        "observador": false,
         "ativo": true
       }
-    ],    
-    
+    ],
     "reunioes": [
       {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "data": "2019-08-16 09:00:00",
+        "cod_subarea": "4118402201",
+        "siape_presidente": "1548479",
+        "local": "BIBLIOTECA CIDADÃ",
         "tipo": "primeira",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	        "133039"
-        ]
-      },
-      {
-        "data": "2020-02-04 11:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "2103806",
-        "local": "Teste",
-        "tipo": "estadual",
-        "complemento": "Teste",
-        "status": "realizada",
-        "participantes": [
-          "133967"
-        ]
-      },
-      {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
-        "tipo": "segunda",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	  "133039"
-        ]
-      },
-      {
-        "data": "2020-03-02 15:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "1356526",
-        "local": "Secretaria de Educação do Estado da Bahia",
-        "tipo": "extraordinaria",
         "complemento": "",
         "status": "realizada",
         "participantes": [
-          "133967",
-          "134551"
-        ]
-      },
-      {
-        "data": "2020-03-11 15:00:00",
-        "cod_subarea": "2927408213",
-        "siape_presidente": "2103806",
-        "local": "Pref. Bairro Liberdade \\ São Caetano",
-        "tipo": "local",
-        "complemento": "",
-        "status": "realizada",
-        "participantes": [
-          "191913",
-          "193099"
+          "150108",
+          "150110",
+          "150113"
         ]
       }
     ]
   },
   "info": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
+    "cod_mun": "4100608",
+    "nome_mun": "ALTO PARANÁ",
+    "cod_agencia": "411840200",
+    "nome_agencia": "PARANAVAÍ",
+    "data": "2020-10-26 09:23:05",
     "fonte": [
       "SIDRA/IBGE",
-      "BDO/COC/IBGE"
+      "BDO/IBGE",
+      "SERVIÇO DADOS/IBGE"
     ]
   }
 }
